@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Jiarong Li — AI-assisted builder and full-stack explorer" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Xuanan Li — Programmer, AI Products and Programming Education" />
 </div>
 
 <div align="center">
@@ -7,76 +7,72 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Beijing-2EA44F?style=flat-square" alt="Open to work in Beijing" />
-  <a href="mailto:lixuanan2@163.com?subject=GitHub%20Opportunity"><img src="https://img.shields.io/badge/Email-Lets_talk-5B8CFF?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Contact me by email" /></a>
-  <img src="https://img.shields.io/badge/WeChat-lixuanan2-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="WeChat lixuanan2" />
-  <a href="https://github.com/lixuanan2/focus-assistant"><img src="https://img.shields.io/badge/Featured-Focus_Assistant-E8A76A?style=flat-square" alt="Focus Assistant" /></a>
+  <img src="https://img.shields.io/badge/Role-Programmer-5B8CFF?style=flat-square" alt="Programmer" />
+  <img src="https://img.shields.io/badge/Focus-AI_Products-8B7CFF?style=flat-square" alt="AI Products" />
+  <img src="https://img.shields.io/badge/Focus-Programming_Education-E8A76A?style=flat-square" alt="Programming Education" />
+  <a href="mailto:lixuanan2@163.com?subject=GitHub%20Collaboration"><img src="https://img.shields.io/badge/Opportunities-Let's_talk-2EA44F?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Contact me" /></a>
 </div>
 
-## Hello, I'm Jiarong 👋
+## Hello, I'm Xuanan Li 👋
 
-I'm an Informatics Engineering graduate who enjoys turning fuzzy ideas into **working, testable, and maintainable** software. My current interests include AI applications, Java / Web, full-stack development, local-first products, and practical digital tools for traditional businesses such as logistics.
+**A programmer exploring AI products × programming education.**
 
-I use AI as a development accelerator without outsourcing judgment to it. Requirement framing, technical trade-offs, code review, testing, and delivery remain my responsibility.
+I enjoy turning ambiguous ideas into products that can be used, tested, and improved. My current focus is twofold: using AI to improve software delivery, and designing programming knowledge as courses and tools that young learners can genuinely understand and build with.
 
-### A 30-second introduction
+Rather than presenting a list of buzzwords, I want to document the full process: how a problem is identified, why a feature is designed in a certain way, where AI is useful, and which decisions still require human judgment.
 
-| | |
-| --- | --- |
-| 🎓 **Education** | Informatics Engineering · Faculty of Sciences, University of Lisbon (FCUL) |
-| 📍 **Location** | Seeking opportunities in Beijing; shaped by years of study and life in Portugal |
-| 🎯 **Roles** | AI application, Java / Web, junior full-stack, technical implementation and support |
-| 🗣️ **Languages** | Native Chinese · Fluent Portuguese · Technical English |
-| 🧩 **Strengths** | From requirements to prototypes, workflow modeling, AI-assisted development, local verification, and iterative delivery |
+## What I do
 
-## Contact & opportunities
+### 01 · AI products
 
-I'm open to junior software and technical roles in Beijing, including positions that connect Chinese and Portuguese-speaking teams or markets.
+- Take real needs from problem framing and prototyping through development, testing, and iteration.
+- Explore practical uses of AI in document workflows, information organization, automation, and local tools.
+- Care about privacy, verifiable outcomes, recovery paths, and the workflows of real users.
 
-- **Recruiting / project enquiries:** [Send me an email](mailto:lixuanan2@163.com?subject=GitHub%20Opportunity) at `lixuanan2@163.com`
-- **WeChat:** `lixuanan2` — please include “GitHub + company / role” in your request
-- **Code and public work:** [github.com/lixuanan2](https://github.com/lixuanan2)
-- **Full résumé:** Available by email; please include your company, role, and name
+### 02 · Programming education
 
-> To protect personal and client data, private work is described through capabilities, architecture, and outcomes—not real operational records.
+- Design Python / C++ courses, exercises, and project tasks for young learners.
+- Break complex ideas into learning experiences students can understand, follow, and complete.
+- Use AI to accelerate preparation while reviewing difficulty, answers, and lesson pacing by hand.
 
-## What I'm building
+### 03 · Content
 
-| Project | What it solves | Stack | Stage |
-| --- | --- | --- | --- |
-| **CrushOS** | A private, local-first relationship journal that turns people, interactions, plans, reminders, and shared expenses into a calm personal system. | Expo · React Native · TypeScript · SQLite | Private beta |
-| [**Focus Assistant**](https://github.com/lixuanan2/focus-assistant) | A browser extension with grouped blocking rules, multiple focus modes, schedules, and progressive strictness. | JavaScript · Manifest V3 · Local Storage | Public · Iterating |
-| **Logistics workflow tools** | Practical tools for bid monitoring, reconciliation, order workflows, and company web presence. | Python · Flask · NestJS · PostgreSQL · SQLite | Private work |
-| [**Taxi WebApp**](https://github.com/lixuanan2/taxy-webapp) | A multi-role taxi system covering map-based booking, dispatch, pricing, invoices, history, and reports. | Angular · Node.js · Express · MongoDB · Leaflet | Course project |
-| **TascaEats** | A delivery platform evolved from a Spring Boot monolith into web, desktop, and event-driven delivery services. | Java · Spring Boot · Kafka · gRPC · Docker | Course project |
+- Document the honest journey from a product idea to a usable release.
+- Share lessons from curriculum design, teaching tools, and AI-assisted work.
+- Publish videos, articles, and selected projects so my work can be seen and verified.
+
+## Selected work
+
+My public work is being reorganized. I will publish only projects that represent my current direction and include clear documentation and demonstrations.
 
 ## Toolbox
 
 ```text
-Languages     Java · TypeScript · JavaScript · Python · SQL
+Languages     Java · TypeScript · JavaScript · Python · C++ · SQL
 Product       React Native / Expo · Angular · Node.js · NestJS · Flask · Spring Boot
-Data          PostgreSQL · MongoDB · SQLite
-Delivery      Git / GitHub · Docker · REST · gRPC · Kafka · Automated testing
-Workflow      Requirement framing · AI-assisted coding · Local verification · Iterative delivery
+Data          PostgreSQL · MongoDB · SQLite · Git / GitHub · Docker · Automated testing
+Education     Curriculum design · Interactive lessons · Exercises · Teacher materials
+Workflow      Problem framing · AI assistance · Human review · Local verification
 ```
 
-## How I like to work
+## Opportunities & contact
 
-- **Start from the real workflow.** I map users, decisions, data, and edge cases before adding features.
-- **Use AI with ownership.** AI helps me explore and move faster; I still inspect the code, run tests, and make the final trade-offs.
-- **Prefer useful over impressive.** A small tool that survives daily use is more valuable than a large demo nobody can maintain.
-- **Protect private data.** Personal and client projects demonstrate capability without exposing conversations, accounts, or real records.
+I am open to roles and collaborations involving:
 
-## Selected public work
+- AI products, education technology, and technical content.
+- Python / C++ curriculum, learning materials, and teaching tools for young learners.
+- Small software products, internal tools, and workflow automation.
+- Programmer, AI product, and programming education opportunities.
 
-| [Focus Assistant →](https://github.com/lixuanan2/focus-assistant) | [Taxi WebApp →](https://github.com/lixuanan2/taxy-webapp) |
-| --- | --- |
-| Browser-level focus rules designed around real bypass behavior, not just a blocklist. | A complete three-role workflow from map-based booking to trip reports and invoices. |
-| `JavaScript` `Manifest V3` `Local-first` | `Angular` `Node.js` `MongoDB` `Leaflet` |
+- **Email:** [lixuanan2@163.com](mailto:lixuanan2@163.com?subject=GitHub%20Collaboration)
+- **WeChat:** `lixuanan2` — please include “GitHub + context”
+- **GitHub:** [github.com/lixuanan2](https://github.com/lixuanan2)
+
+> Private work is presented through verifiable capabilities, architecture, and outcomes—never student, client, or operational data.
 
 ---
 
 <div align="center">
-  <sub>Building practical software, one verified iteration at a time.</sub><br />
-  <sub><a href="mailto:lixuanan2@163.com?subject=GitHub%20Opportunity">Have a relevant opportunity? Let's talk.</a></sub>
+  <strong>Turn complex problems into useful products. Explain programming in language people understand.</strong><br />
+  <sub>Build useful things. Explain them clearly.</sub>
 </div>

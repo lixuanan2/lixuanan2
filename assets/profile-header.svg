@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Jiarong Li — AI-assisted builder and full-stack explorer</title>
-  <desc id="desc">A dark blue profile banner with a soft grid, glowing accent shapes, and a path from Lisbon to Beijing.</desc>
+  <title id="title">李玄安 — 程序员，AI 产品与编程教育</title>
+  <desc id="desc">A dark blue profile banner for programmer Xuanan Li, focused on AI products and programming education.</desc>
   <defs>
     <linearGradient id="background" x1="60" y1="20" x2="1140" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0A1020"/>
@@ -54,15 +54,15 @@
     </g>
 
     <rect x="74" y="63" width="74" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="74" y="121" fill="#F4F7FC" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="54" font-weight="700" letter-spacing="1">JIARONG LI</text>
-    <text x="76" y="168" fill="#AFC1DF" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="500" letter-spacing="4">AI-ASSISTED BUILDER · FULL-STACK EXPLORER</text>
+    <text x="74" y="121" fill="#F4F7FC" font-family="Inter, 'PingFang SC', 'Microsoft YaHei', ui-sans-serif, sans-serif" font-size="54" font-weight="700" letter-spacing="2">李玄安</text>
+    <text x="76" y="168" fill="#AFC1DF" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" letter-spacing="2.8">PROGRAMMER · AI PRODUCTS · PROGRAMMING EDUCATION</text>
 
     <g transform="translate(76 218)">
       <rect width="384" height="58" rx="15" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.11"/>
       <circle cx="28" cy="29" r="7" fill="#5B8CFF"/>
       <path d="M35 29H137" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
       <circle cx="144" cy="29" r="7" fill="#E8A76A"/>
-      <text x="168" y="36" fill="#D9E3F5" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">Lisbon  →  Beijing</text>
+      <text x="168" y="36" fill="#D9E3F5" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">Xuanan Li · 李玄安</text>
     </g>
 
     <text x="77" y="319" fill="#8292AD" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" letter-spacing="1.4">BUILD · VERIFY · ITERATE</text>
