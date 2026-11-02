@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lixuanan2/lixuanan2/main/assets/profile-header-dark.svg" />
     <img src="./assets/profile-header.svg" width="100%" alt="Xuanan Li — From studying in Portugal to programming education. AI products, code and creativity." />
   </picture>
 </p>

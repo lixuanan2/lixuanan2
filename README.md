@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lixuanan2/lixuanan2/main/assets/profile-header-dark.svg" />
     <img src="./assets/profile-header.svg" width="100%" alt="李玄安 Xuanan Li — 从葡萄牙留学到编程教育，分享 AI 产品、代码与创造。" />
   </picture>
 </p>
