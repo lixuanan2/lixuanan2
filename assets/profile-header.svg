@@ -1,74 +1,42 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">李玄安 — 程序员，AI 产品与编程教育</title>
-  <desc id="desc">A dark blue profile banner for programmer Xuanan Li, focused on AI products and programming education.</desc>
-  <defs>
-    <linearGradient id="background" x1="60" y1="20" x2="1140" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A1020"/>
-      <stop offset="0.5" stop-color="#101B34"/>
-      <stop offset="1" stop-color="#111A2A"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="214" y1="75" x2="934" y2="292" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5B8CFF"/>
-      <stop offset="0.5" stop-color="#80B8FF"/>
-      <stop offset="1" stop-color="#E8A76A"/>
-    </linearGradient>
-    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(188 74) rotate(36) scale(286 220)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#376EE6" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#376EE6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="warmGlow" cx="0" cy="0" r="1" gradientTransform="translate(1048 296) rotate(-142) scale(280 180)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E8A76A" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#E8A76A" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#AFC7FF" stroke-opacity="0.055"/>
-    </pattern>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="7"/>
-    </filter>
-    <clipPath id="frame">
-      <rect width="1200" height="360" rx="28"/>
-    </clipPath>
-  </defs>
-
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#background)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <rect width="1200" height="360" fill="url(#blueGlow)"/>
-    <rect width="1200" height="360" fill="url(#warmGlow)"/>
-
-    <path d="M-50 313C190 208 310 377 526 266C730 160 849 258 1250 78" stroke="url(#accent)" stroke-opacity="0.17" stroke-width="2"/>
-    <path d="M-31 329C201 233 337 392 542 284C731 184 876 272 1237 116" stroke="#AFC7FF" stroke-opacity="0.07"/>
-
-    <g opacity="0.86">
-      <circle cx="1014" cy="91" r="49" stroke="#80B8FF" stroke-opacity="0.24"/>
-      <circle cx="1014" cy="91" r="31" stroke="#80B8FF" stroke-opacity="0.16"/>
-      <circle cx="1014" cy="91" r="5" fill="#80B8FF"/>
-      <path d="M941 91H1087M1014 18V164" stroke="#80B8FF" stroke-opacity="0.1"/>
-    </g>
-
-    <g opacity="0.78">
-      <rect x="962" y="232" width="151" height="55" rx="12" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.11"/>
-      <circle cx="987" cy="259.5" r="6" fill="#E8A76A"/>
-      <path d="M1006 251H1085M1006 267H1062" stroke="#C6D4ED" stroke-opacity="0.48" stroke-width="3" stroke-linecap="round"/>
-    </g>
-
-    <rect x="74" y="63" width="74" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="74" y="121" fill="#F4F7FC" font-family="Inter, 'PingFang SC', 'Microsoft YaHei', ui-sans-serif, sans-serif" font-size="54" font-weight="700" letter-spacing="2">李玄安</text>
-    <text x="76" y="168" fill="#AFC1DF" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" letter-spacing="2.8">PROGRAMMER · AI PRODUCTS · PROGRAMMING EDUCATION</text>
-
-    <g transform="translate(76 218)">
-      <rect width="384" height="58" rx="15" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.11"/>
-      <circle cx="28" cy="29" r="7" fill="#5B8CFF"/>
-      <path d="M35 29H137" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="144" cy="29" r="7" fill="#E8A76A"/>
-      <text x="168" y="36" fill="#D9E3F5" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500">Xuanan Li · 李玄安</text>
-    </g>
-
-    <text x="77" y="319" fill="#8292AD" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" letter-spacing="1.4">BUILD · VERIFY · ITERATE</text>
-
-    <circle cx="144" cy="29" r="24" fill="#5B8CFF" fill-opacity="0.3" filter="url(#softGlow)"/>
-    <circle cx="1088" cy="316" r="28" fill="#E8A76A" fill-opacity="0.22" filter="url(#softGlow)"/>
-  </g>
-  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#AFC7FF" stroke-opacity="0.14"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">李玄安 · Xuanan Li</title>
+<desc id="desc">Programmer. AI products and programming education. From studying in Portugal to creating courses, tools and videos.</desc>
+<rect x="1" y="1" width="1198" height="478" rx="24" fill="#F6F2E9" stroke="#D7DDD1" stroke-width="2"/>
+<g font-family="'PingFang SC', 'Microsoft YaHei', -apple-system, sans-serif">
+<circle cx="58" cy="48" r="6" fill="#D66C43"/>
+<text x="78" y="54" fill="#596963" font-size="15" letter-spacing="2">XUANAN / BUILD · TEACH · SHARE</text>
+<path d="M48 78H1152" stroke="#D7DDD1"/>
+<text x="48" y="171" fill="#202A28" font-size="72" font-weight="700" letter-spacing="5">李玄安</text>
+<text x="51" y="216" fill="#596963" font-size="24" letter-spacing="2">XUANAN LI</text>
+<text x="48" y="279" fill="#202A28" font-size="30" font-weight="600">AI 产品 × 编程教育</text>
+<text x="50" y="321" fill="#596963" font-size="22">从葡萄牙留学，到代码、课堂与创造。</text>
+<rect x="48" y="362" width="254" height="39" rx="19.5" fill="#E5EADD"/>
+<text x="68" y="388" fill="#202A28" font-size="17">程序员 / 内容创作筹备中</text>
+<path d="M48 430H1152" stroke="#D7DDD1"/>
+<text x="48" y="458" fill="#596963" font-size="14" letter-spacing="1">PORTUGAL STUDIES → SOFTWARE → PROGRAMMING EDUCATION</text>
+<text x="1034" y="458" fill="#596963" font-size="14">lixuanan2</text>
+</g>
+<g transform="translate(752 112)">
+<rect x="0" y="0" width="398" height="284" rx="18" fill="#E5EADD"/>
+<path d="M0 44H398" stroke="#D7DDD1"/>
+<circle cx="22" cy="23" r="4" fill="#D66C43"/><circle cx="38" cy="23" r="4" fill="#596963" opacity=".5"/><circle cx="54" cy="23" r="4" fill="#596963" opacity=".25"/>
+<text x="323" y="28" fill="#596963" font-family="monospace" font-size="13">LAB_01</text>
+<g stroke="#202A28" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M45 83L25 103L45 123M87 83L107 103L87 123M72 79L60 127"/>
+<path d="M225 91H349M225 110H318M225 129H333" stroke-width="4" opacity=".35"/>
+</g>
+<path d="M22 157H376" stroke="#D7DDD1"/>
+<g transform="translate(32 184)" stroke="#202A28" stroke-width="3.5">
+<path d="M28 0V13M18 0H38" stroke-linecap="round"/>
+<rect x="0" y="13" width="57" height="43" rx="11"/>
+<circle cx="17" cy="32" r="3" fill="#202A28" stroke="none"/><circle cx="40" cy="32" r="3" fill="#202A28" stroke="none"/>
+<path d="M20 45H37M-7 29V44M64 29V44" stroke-linecap="round"/>
+</g>
+<rect x="122" y="184" width="112" height="68" rx="8" fill="#F6F2E9" stroke="#D7DDD1"/>
+<path d="M143 204H212M143 217H195M143 230H204" stroke="#596963" stroke-width="4" stroke-linecap="round"/>
+<rect x="264" y="184" width="101" height="68" rx="8" fill="#D66C43"/>
+<path d="M305 202L328 218L305 234Z" fill="#FFF9ED"/>
+<circle cx="171" cy="104" r="28" stroke="#D66C43" stroke-width="2"/>
+<path d="M171 87V121M154 104H188" stroke="#D66C43" stroke-width="3" stroke-linecap="round"/>
+</g>
 </svg>

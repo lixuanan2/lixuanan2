@@ -1,78 +1,88 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="李玄安 — 程序员，AI 产品与编程教育" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <img src="./assets/profile-header.svg" width="100%" alt="李玄安 Xuanan Li — 从葡萄牙留学到编程教育，分享 AI 产品、代码与创造。" />
+  </picture>
+</p>
 
-<div align="center">
-  <strong>简体中文</strong> · <a href="./README_EN.md">English</a>
-</div>
+<p align="center">
+  <strong>简体中文</strong> · <a href="./README_EN.md">English</a><br />
+  <a href="mailto:lixuanan2@163.com">邮件联系</a> · <a href="#联系玄安">工作与合作</a> · <a href="#玄安的创作笔记">内容方向</a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/身份-程序员-5B8CFF?style=flat-square" alt="程序员" />
-  <img src="https://img.shields.io/badge/方向-AI产品-8B7CFF?style=flat-square" alt="AI 产品" />
-  <img src="https://img.shields.io/badge/方向-编程教育-E8A76A?style=flat-square" alt="编程教育" />
-  <a href="mailto:lixuanan2@163.com?subject=GitHub%20合作联系"><img src="https://img.shields.io/badge/合作-联系我-2EA44F?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="通过邮件联系我" /></a>
-</div>
+### 我是李玄安，一名走向编程教育的程序员。
 
-## 你好，我是李玄安 👋
+曾在**葡萄牙里斯本大学理学院（FCUL）学习信息工程**。从 Web、移动端应用到业务自动化工具，我逐渐把软件开发与 AI 产品实践延伸到**少儿编程教育、机器人赛事和代码编程竞赛相关项目**。
 
-**程序员，正在探索 AI 产品 × 编程教育。**
+现在，我在做 Python / C++ 课程、交互课件和教学辅助工具，也在筹备自己的视频账号。希望把产品开发、课程设计和竞赛项目中的具体经验，讲成别人能理解、能跟着做的内容。
 
-我喜欢把模糊的想法做成可以使用、可以验证、可以持续改进的产品。现在主要关注两件事：用 AI 提高软件交付效率，以及把编程知识设计成孩子真正能理解、能动手完成的课程与工具。
+> **写代码，做产品，也把编程讲明白。**
 
-我不想只展示技术名词，更希望留下完整的实践过程：问题是怎样被发现的、功能为什么这样设计、AI 在哪里有效，以及哪些判断仍然必须由人完成。
+<br />
 
-## 我在做什么
+## 现在，主要做三件事
 
-### 01 · AI 产品
+**01 / 用 AI 做实用产品**
 
-- 从真实需求出发，完成需求梳理、原型、开发、测试与迭代。
-- 探索 AI 在文档处理、信息整理、业务自动化和本地工具中的实际价值。
-- 重视隐私、可验证结果、失败恢复，以及真实使用者的工作流程。
+把需求整理成可使用的软件。做过 Web 与移动端应用、本地工具，以及物流业务中的对账、订单流转和路线规划相关工具。关注 AI 怎样改善开发、文档处理和信息整理中的实际流程。
 
-### 02 · 编程教育
+**02 / 把编程变成孩子能完成的作品**
 
-- 设计面向青少年的 Python / C++ 课程、练习与项目任务。
-- 把复杂知识拆成“看得懂、跟得上、做得出”的学习过程。
-- 使用 AI 加速备课和内容生产，同时人工检查难度、答案与课堂节奏。
+围绕青少年 Python / C++ 学习设计课程、交互课件、练习和项目任务。把知识点拆成小步骤，给学生留下动手验证和解释作品的空间；用 AI 辅助备课，再逐项核对示例、答案与难度。
 
-### 03 · 内容创作
+**03 / 参与机器人与编程竞赛项目**
 
-- 记录一个产品从想法到可用版本的真实过程。
-- 分享课程设计、教学工具和 AI 辅助工作的复盘。
-- 逐步更新视频、文章与公开作品，让能力可以被看见和验证。
+参与赛事资料、报名流程和相关工具建设，逐步整理竞赛学习内容。已开发机器人赛事报名汇总助手，覆盖邮件附件、本地 OCR、Excel 整理、去重和人工复核，让繁杂资料更容易核查。
 
-## 作品
+<br />
 
-公开作品正在重新整理。后续会只保留能够代表当前方向、并且有完整说明与演示的项目。
+## 从留学到教育，我带来了什么
 
-## 技术工具箱
+- **信息工程学习经历** — 在葡萄牙学习计算机相关知识，积累葡萄牙语沟通和跨文化生活经验。
+- **软件开发实践** — 经历需求梳理、数据建模、界面开发、测试与版本迭代，把想法推进到可运行的结果。
+- **教育工具视角** — 把工程方法用于课程准备、练习检查和赛事资料流程，让老师与项目人员减少重复工作。
 
-```text
-编程语言     Java · TypeScript · JavaScript · Python · C++ · SQL
-应用开发     React Native / Expo · Angular · Node.js · NestJS · Flask · Spring Boot
-数据与交付   PostgreSQL · MongoDB · SQLite · Git / GitHub · Docker · 自动化测试
-教育研发     课程拆解 · 交互课件 · 练习设计 · 教师资料 · 学习成果验证
-工作方式     需求澄清 · AI 辅助开发 · 人工复核 · 本地验证 · 小步迭代
-```
+公开作品将按主题逐步整理，具体仓库名单确认后再更新。涉及学生和业务信息的项目，以脱敏案例展示。
 
-## 合作与联系
+<br />
 
-欢迎以下方向的工作与合作机会：
+## 玄安的创作笔记
 
-- AI 产品、教育科技与技术内容。
-- 青少年 Python / C++ 课程、课件与教学工具。
-- 小型软件、内部工具与业务流程自动化。
-- 程序员、AI 产品或编程教育相关岗位。
+**视频账号筹备中。** 我准备从这些主题开始持续记录：
 
-- **邮箱：** [lixuanan2@163.com](mailto:lixuanan2@163.com?subject=GitHub%20合作联系)
-- **微信：** `lixuanan2`（请备注「GitHub + 来意」）
-- **GitHub：** [github.com/lixuanan2](https://github.com/lixuanan2)
+| 栏目 | 会分享的内容 |
+| :--- | :--- |
+| **玄安做产品** | AI 小工具如何从需求走到可用版本，功能取舍与开发复盘 |
+| **玄安讲编程** | Python / C++ 课程拆解、互动练习，以及一个知识点怎样变成作品 |
+| **竞赛项目幕后** | 机器人赛事资料流程、竞赛项目准备与工具实践 |
+| **留学之后** | 葡萄牙信息工程学习经历，以及走向少儿编程教育的过程 |
 
-> 私有项目只展示可验证的能力、技术方案和结果，不公开学生、客户或业务数据。
+账号与首批视频上线后，会在这里更新入口。
+
+<details>
+<summary><strong>展开我的技术与工作方式</strong></summary>
+
+<br />
+
+- **课程与代码：** Python · C++ · Java · TypeScript / JavaScript
+- **应用与工具：** React Native / Expo · Angular · Node.js · Flask · Spring Boot
+- **数据与交付：** PostgreSQL · MongoDB · SQLite · Git · Docker
+- **教育研发：** 课程拆解 · 交互课件 · 项目练习 · 教师资料 · 结果验证
+- **工作方式：** 先理解流程 → 小步实现 → AI 辅助 → 人工复核 → 测试与复盘
+
+</details>
+
+<br />
+
+## 联系玄安
+
+欢迎交流 **AI 产品开发、少儿编程课程、教学与赛事工具、技术内容共创**，也欢迎相关岗位与项目机会。
+
+**[lixuanan2@163.com](mailto:lixuanan2@163.com)** · 微信：`lixuanan2`<br />
+添加时请备注「GitHub + 公司 / 项目 / 来意」。招聘沟通可通过邮箱索取简历。
 
 ---
 
-<div align="center">
-  <strong>把复杂的问题做成有用的产品，把编程讲成听得懂的语言。</strong><br />
-  <sub>Build useful things. Explain them clearly.</sub>
-</div>
+<p align="center">
+  <sub>李玄安 · Xuanan Li<br />代码连接想法，作品连接成长。</sub>
+</p>

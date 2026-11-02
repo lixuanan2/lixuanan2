@@ -1,78 +1,88 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Xuanan Li — Programmer, AI Products and Programming Education" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <img src="./assets/profile-header.svg" width="100%" alt="Xuanan Li — From studying in Portugal to programming education. AI products, code and creativity." />
+  </picture>
+</p>
 
-<div align="center">
-  <a href="./README.md">简体中文</a> · <strong>English</strong>
-</div>
+<p align="center">
+  <a href="./README.md">简体中文</a> · <strong>English</strong><br />
+  <a href="mailto:lixuanan2@163.com">Email me</a> · <a href="#lets-connect">Work & collaboration</a> · <a href="#notes-from-xuanan">Upcoming content</a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Programmer-5B8CFF?style=flat-square" alt="Programmer" />
-  <img src="https://img.shields.io/badge/Focus-AI_Products-8B7CFF?style=flat-square" alt="AI Products" />
-  <img src="https://img.shields.io/badge/Focus-Programming_Education-E8A76A?style=flat-square" alt="Programming Education" />
-  <a href="mailto:lixuanan2@163.com?subject=GitHub%20Collaboration"><img src="https://img.shields.io/badge/Opportunities-Let's_talk-2EA44F?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Contact me" /></a>
-</div>
+### I'm Xuanan Li, a programmer moving into programming education.
 
-## Hello, I'm Xuanan Li 👋
+I studied **Informatics Engineering at the Faculty of Sciences, University of Lisbon (FCUL), Portugal**. My work spans web and mobile applications, local tools, and business automation. I am now bringing software development and AI product experience into **programming education for young learners, robotics events, and coding competition projects**.
 
-**A programmer exploring AI products × programming education.**
+I develop Python / C++ learning materials, interactive lessons, and teaching tools, and I am preparing to launch a video channel. I want to share practical lessons from building products, designing courses, and supporting competition projects in a way people can understand and try themselves.
 
-I enjoy turning ambiguous ideas into products that can be used, tested, and improved. My current focus is twofold: using AI to improve software delivery, and designing programming knowledge as courses and tools that young learners can genuinely understand and build with.
+> **Write code. Build products. Make programming understandable.**
 
-Rather than presenting a list of buzzwords, I want to document the full process: how a problem is identified, why a feature is designed in a certain way, where AI is useful, and which decisions still require human judgment.
+<br />
 
-## What I do
+## Three areas of work
 
-### 01 · AI products
+**01 / Useful products with AI**
 
-- Take real needs from problem framing and prototyping through development, testing, and iteration.
-- Explore practical uses of AI in document workflows, information organization, automation, and local tools.
-- Care about privacy, verifiable outcomes, recovery paths, and the workflows of real users.
+Turn real needs into usable software. My projects include web and mobile applications, local tools, and logistics workflows involving reconciliation, orders, and route planning. I explore where AI improves development, document processing, and information organization.
 
-### 02 · Programming education
+**02 / Programming that leads to something students can build**
 
-- Design Python / C++ courses, exercises, and project tasks for young learners.
-- Break complex ideas into learning experiences students can understand, follow, and complete.
-- Use AI to accelerate preparation while reviewing difficulty, answers, and lesson pacing by hand.
+Design Python / C++ courses, interactive materials, exercises, and project tasks for young learners. Break concepts into manageable steps, with room to test ideas and explain the result. Use AI for preparation, then review examples, answers, and difficulty.
 
-### 03 · Content
+**03 / Robotics and coding competition projects**
 
-- Document the honest journey from a product idea to a usable release.
-- Share lessons from curriculum design, teaching tools, and AI-assisted work.
-- Publish videos, articles, and selected projects so my work can be seen and verified.
+Support event documentation, registration workflows, and related tools while gradually organizing competition learning materials. I built a robotics registration assistant covering email attachments, local OCR, Excel organization, deduplication, and human review.
 
-## Selected work
+<br />
 
-My public work is being reorganized. I will publish only projects that represent my current direction and include clear documentation and demonstrations.
+## From studying abroad to education
 
-## Toolbox
+- **Engineering studies in Portugal** — Computing foundations, Portuguese-language communication, and experience living across cultures.
+- **Software development practice** — Work across requirements, data models, interfaces, testing, and iterative releases.
+- **Tools for education** — Apply engineering methods to lesson preparation, exercise checking, and event documentation to reduce repetitive work.
 
-```text
-Languages     Java · TypeScript · JavaScript · Python · C++ · SQL
-Product       React Native / Expo · Angular · Node.js · NestJS · Flask · Spring Boot
-Data          PostgreSQL · MongoDB · SQLite · Git / GitHub · Docker · Automated testing
-Education     Curriculum design · Interactive lessons · Exercises · Teacher materials
-Workflow      Problem framing · AI assistance · Human review · Local verification
-```
+Selected public projects will be added once the repository list is confirmed. Work involving students or business information will be presented through anonymized case studies.
 
-## Opportunities & contact
+<br />
 
-I am open to roles and collaborations involving:
+## Notes from Xuanan
 
-- AI products, education technology, and technical content.
-- Python / C++ curriculum, learning materials, and teaching tools for young learners.
-- Small software products, internal tools, and workflow automation.
-- Programmer, AI product, and programming education opportunities.
+**Video channel in preparation.** These are the themes I plan to explore:
 
-- **Email:** [lixuanan2@163.com](mailto:lixuanan2@163.com?subject=GitHub%20Collaboration)
-- **WeChat:** `lixuanan2` — please include “GitHub + context”
-- **GitHub:** [github.com/lixuanan2](https://github.com/lixuanan2)
+| Series | What I'll share |
+| :--- | :--- |
+| **Building with Xuanan** | AI tools from initial need to usable software, design decisions, and development notes |
+| **Programming with Xuanan** | Python / C++ lessons, interactive exercises, and turning concepts into projects |
+| **Behind the competition** | Robotics event workflows, project preparation, and practical tools |
+| **After studying abroad** | Informatics Engineering in Portugal and my move into programming education |
 
-> Private work is presented through verifiable capabilities, architecture, and outcomes—never student, client, or operational data.
+Channel links and the first videos will be added here when available.
+
+<details>
+<summary><strong>My tools & working process</strong></summary>
+
+<br />
+
+- **Code & courses:** Python · C++ · Java · TypeScript / JavaScript
+- **Applications:** React Native / Expo · Angular · Node.js · Flask · Spring Boot
+- **Data & delivery:** PostgreSQL · MongoDB · SQLite · Git · Docker
+- **Education:** Curriculum design · Interactive lessons · Project tasks · Teacher materials
+- **Process:** Understand the workflow → Build in small steps → Use AI → Review by hand → Test and reflect
+
+</details>
+
+<br />
+
+## Let's connect
+
+Open to **AI product development, programming courses for young learners, teaching and competition tools, and technical content**, as well as relevant roles and project opportunities.
+
+**[lixuanan2@163.com](mailto:lixuanan2@163.com)** · WeChat: `lixuanan2`<br />
+Please include “GitHub + company / project / context”. A résumé is available by email.
 
 ---
 
-<div align="center">
-  <strong>Turn complex problems into useful products. Explain programming in language people understand.</strong><br />
-  <sub>Build useful things. Explain them clearly.</sub>
-</div>
+<p align="center">
+  <sub>李玄安 · Xuanan Li<br />Code connects ideas. Projects create room to grow.</sub>
+</p>

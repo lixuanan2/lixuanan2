@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">李玄安 · Xuanan Li</title>
+<desc id="desc">Programmer. AI products and programming education. From studying in Portugal to creating courses, tools and videos.</desc>
+<rect x="1" y="1" width="1198" height="478" rx="24" fill="#181B1B" stroke="#3D4941" stroke-width="2"/>
+<g font-family="'PingFang SC', 'Microsoft YaHei', -apple-system, sans-serif">
+<circle cx="58" cy="48" r="6" fill="#D66C43"/>
+<text x="78" y="54" fill="#B0B9B1" font-size="15" letter-spacing="2">XUANAN / BUILD · TEACH · SHARE</text>
+<path d="M48 78H1152" stroke="#3D4941"/>
+<text x="48" y="171" fill="#F2EDE3" font-size="72" font-weight="700" letter-spacing="5">李玄安</text>
+<text x="51" y="216" fill="#B0B9B1" font-size="24" letter-spacing="2">XUANAN LI</text>
+<text x="48" y="279" fill="#F2EDE3" font-size="30" font-weight="600">AI 产品 × 编程教育</text>
+<text x="50" y="321" fill="#B0B9B1" font-size="22">从葡萄牙留学，到代码、课堂与创造。</text>
+<rect x="48" y="362" width="254" height="39" rx="19.5" fill="#242C28"/>
+<text x="68" y="388" fill="#F2EDE3" font-size="17">程序员 / 内容创作筹备中</text>
+<path d="M48 430H1152" stroke="#3D4941"/>
+<text x="48" y="458" fill="#B0B9B1" font-size="14" letter-spacing="1">PORTUGAL STUDIES → SOFTWARE → PROGRAMMING EDUCATION</text>
+<text x="1034" y="458" fill="#B0B9B1" font-size="14">lixuanan2</text>
+</g>
+<g transform="translate(752 112)">
+<rect x="0" y="0" width="398" height="284" rx="18" fill="#242C28"/>
+<path d="M0 44H398" stroke="#3D4941"/>
+<circle cx="22" cy="23" r="4" fill="#D66C43"/><circle cx="38" cy="23" r="4" fill="#B0B9B1" opacity=".5"/><circle cx="54" cy="23" r="4" fill="#B0B9B1" opacity=".25"/>
+<text x="323" y="28" fill="#B0B9B1" font-family="monospace" font-size="13">LAB_01</text>
+<g stroke="#F2EDE3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M45 83L25 103L45 123M87 83L107 103L87 123M72 79L60 127"/>
+<path d="M225 91H349M225 110H318M225 129H333" stroke-width="4" opacity=".35"/>
+</g>
+<path d="M22 157H376" stroke="#3D4941"/>
+<g transform="translate(32 184)" stroke="#F2EDE3" stroke-width="3.5">
+<path d="M28 0V13M18 0H38" stroke-linecap="round"/>
+<rect x="0" y="13" width="57" height="43" rx="11"/>
+<circle cx="17" cy="32" r="3" fill="#F2EDE3" stroke="none"/><circle cx="40" cy="32" r="3" fill="#F2EDE3" stroke="none"/>
+<path d="M20 45H37M-7 29V44M64 29V44" stroke-linecap="round"/>
+</g>
+<rect x="122" y="184" width="112" height="68" rx="8" fill="#181B1B" stroke="#3D4941"/>
+<path d="M143 204H212M143 217H195M143 230H204" stroke="#B0B9B1" stroke-width="4" stroke-linecap="round"/>
+<rect x="264" y="184" width="101" height="68" rx="8" fill="#D66C43"/>
+<path d="M305 202L328 218L305 234Z" fill="#FFF9ED"/>
+<circle cx="171" cy="104" r="28" stroke="#D66C43" stroke-width="2"/>
+<path d="M171 87V121M154 104H188" stroke="#D66C43" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>
